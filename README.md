@@ -48,4 +48,8 @@ Here are some web pages that you may need to refer to:
      - Yu-Gi-Oh! Trading Cards Dataset
       -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
       - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
-  
+ 
+ Cody Makinson:
+1. My first choice is analyzing sports data. I found a website that goes all the way back to the conception of the NHL. Maybe analyze original 6 hockey teams.
+2.
+https://www.justsportsstats.com/hockeyindex.php?league=NHL
