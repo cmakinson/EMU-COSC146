@@ -49,3 +49,12 @@ Here are some web pages that you may need to refer to:
       -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
       - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
   
+
+Cody Makinson
+1. I want to analyze NHL data from the birth of the NHL original 6 hockey teams.
+2. I really enjoyed pokemon growing up, so I would use the data we previously used in an assignment. I want to see if there is a type bias, among other statitical analysis.
+3.Weather data. It is cyclical and a different kind of data than the other two.
+
+https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
+https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
+PRECIP_HLY_sample_csv
