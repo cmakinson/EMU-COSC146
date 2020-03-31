@@ -1,6 +1,7 @@
 # EMU COSC 146 Applied Programming and Scripting
 ## In Python
 
+The [resources web page](https://cowang.github.io/EMU-COSC146/) for the course can be modified at <https://github.com/cowang/EMU-COSC146/blob/gh-pages/README.md>.
 Here are some web pages that you may need to refer to:
 
 - [Python.org](https://www.python.org/)
@@ -44,17 +45,15 @@ Here are some web pages that you may need to refer to:
         it is not related to my major. Categorical fields would be Country/Region, and perhaps Province/State. 
         There are several numerical fields. Graphing the growth of cases over time for a selected state like 
         Michigan would be possible, but the date field looks different than what we have studied. I may need some help there.
-   -**Cody Sharp**
-     - Yu-Gi-Oh! Trading Cards Dataset
+  - **Cody Sharp**
+    - Yu-Gi-Oh! Trading Cards Dataset
       -https://www.kaggle.com/tathor/yugioh-trading-cards-dataset/data
       - YuGiOh is a card game that I have a lot of interest in and I think it would be fun to explore the most common card type or              monster attributes given the over 6,000 cards included in this data set.
-  
+  - Cody Makinson
+    - I want to analyze NHL data from the birth of the NHL original 6 hockey teams.
+    - I really enjoyed pokemon growing up, so I would use the data we previously used in an assignment. I want to see if there is a type bias, among other statitical analysis.
+    - Weather data. It is cyclical and a different kind of data than the other two.
+      https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
+      https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
+      PRECIP_HLY_sample_csv
 
-Cody Makinson
-1. I want to analyze NHL data from the birth of the NHL original 6 hockey teams.
-2. I really enjoyed pokemon growing up, so I would use the data we previously used in an assignment. I want to see if there is a type bias, among other statitical analysis.
-3.Weather data. It is cyclical and a different kind of data than the other two.
-
-https://www.justsportsstats.com/hockeyindex.php?league=NHL *I just need to download in excel* 
-https://pokemondb.net/pokedex/all * I would have to play around a little to make into .csv file*
-PRECIP_HLY_sample_csv
